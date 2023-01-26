@@ -38,17 +38,11 @@ Home.html:
             margin-right: auto;
             padding: 20px;
             font-family: Calibri;
-          
         }
-            
-
         .toptext{
             top: 1px;
-            color:white;
-           
+            color:white;   
         }
-
-        
         .line1{
             top: 2px;
             width: 150px;
@@ -60,7 +54,6 @@ Home.html:
             position: relative;
             color:lightblue;
             top:-45px;
-            
             font-family:Georgia;
             font-size: xx-large;
         }
@@ -70,24 +63,19 @@ Home.html:
             text-align: left;
             position: relative;
             top: -30.0px;
-        
         }
         .line2 {
             width: auto;
             position:relative;
             color: orangered;
-            top:-40px;
-            
+            top:-40px; 
         }
         .publisher{
             position: relative;
             width: 300px;
            left: 400px;
            top: -130px;
-            
-            
         }
-        
         .sub{
             font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             font-size:xx-large;
@@ -95,13 +83,10 @@ Home.html:
             top:-30px;
         }
         .img{
-            
             position: relative;
             top: -30px;
             left: 490px;
-            width: 150px;
-            
-            
+            width: 150px;       
         }
         span{
             color: orangered;
@@ -133,12 +118,7 @@ Home.html:
             </div>
             <div >
                 <img class="publisher" src="pack.png" alt="packt">
-            </div>
-           
-            
-        </div>
-    </body>
-</html>
+            </div></div></body></html>
 ```
 # Output:
 ![img](book.png)
