@@ -141,4 +141,7 @@ Home.html:
 </html>
 ```
 # Output:
+![img](book.png)
+## HTML Validator:
+![img](vali.png)
 
