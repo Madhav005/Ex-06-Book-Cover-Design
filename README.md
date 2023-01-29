@@ -125,3 +125,6 @@ Home.html:
 ## HTML Validator:
 ![img](vali.png)
 
+# Result:
+The Book cover design creted successfully.
+
